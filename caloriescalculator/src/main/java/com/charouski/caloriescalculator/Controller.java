@@ -1,4 +1,4 @@
-package com.charouski.caloriecalculator;
+package com.charouski.caloriescalculator;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

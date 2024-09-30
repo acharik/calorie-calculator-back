@@ -1,13 +1,13 @@
-package com.charouski.caloriecalculator;
+package com.charouski.caloriescalculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalorieCalculatorApplication {
+public class CaloriesCalculatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CalorieCalculatorApplication.class, args);
+		SpringApplication.run(CaloriesCalculatorApplication.class, args);
 	}
 
 }

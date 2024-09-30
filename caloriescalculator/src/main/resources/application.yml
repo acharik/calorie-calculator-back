@@ -1,0 +1,9 @@
+spring:
+  application.name: calories-calculator
+
+
+  security:
+    oauth2:
+      resource server:
+        jwt:
+          issuer-uri: localhost/auth/realms/calories-calculator
